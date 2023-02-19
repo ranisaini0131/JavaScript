@@ -66,10 +66,10 @@ console.log(sentence.charAt(1));
 //indexing starts from 0
 
 //=================CREATION===============
-const way1 = `rani`; //backticks
-const way2 = "rani";
-const way3 = 'rani';
-console.log(way1, way2, way3);
+const way11 = `rani`; //backticks
+const way22 = "rani";
+const way33 = 'rani';
+console.log(way11, way22, way33);
 console.log(way1[0]);
 
 const firstName = new String();
