@@ -52,4 +52,17 @@ console.log(typeof null); //Object
 
 
 
+// ============REFERENCE DATATYPES(OBJECTS)=============
+// *THEY ARE DERIVED FROM PRIMITIVE DATATYPES
+// *THEIR MEMORY IS ALLOCATED IN HEAP(DYNAMIC MEMMORY)
+// 1.ARRAYS
+// 2.OBJECT LITERALS
+// 3.FUNCTIONS
+// 4.DATES
+// */
+// let a=null;
+// console.log(typeof a);//it is a primimtive data type but return object 
+
+
+
 
